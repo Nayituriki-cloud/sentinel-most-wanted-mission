@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel - Most Wanted Mission Assistant",
+  "description": "Authorized law-enforcement and public-safety mission management platform for wanted-person cases, verified intelligence, secure tips, risk assessment, and lawful reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
